@@ -5,7 +5,7 @@ Unixタイム（秒単位）から対応する日付を当てるWebゲームで�
 
 ## 遊び方
 
-***[ここにアクセス！]("https://example.com")***
+[ここにアクセス！](https://satodoge.github.io/unixTimeGame/)
 
 ### 基本ルール
 1. 画面に表示されたUnixタイム（秒）を確認
